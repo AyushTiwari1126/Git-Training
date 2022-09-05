@@ -1,1 +1,2 @@
 This is an index file in the folder "my new repos".
+There are some changes into the file.
